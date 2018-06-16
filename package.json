@@ -13,7 +13,7 @@
     "type": "git",
     "url": "https://github.com/learnGithubChen/admin-fe"
   },
-  "author": "Rosen",
+  "author": "Peter",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^3.3.7",
